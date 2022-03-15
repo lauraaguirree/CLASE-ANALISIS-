@@ -1,4 +1,4 @@
-//taller 2 
+/*taller 2 
 console.log("solución punto #1") ;
 var areaCuadrado
 var volumenCubo
@@ -67,7 +67,7 @@ var totalPago = 22000*areaPared
 console.log("el total a pagar al pintor es" + totalPago) ;
 
 
-
+*/
 console.log("solución punto #7") ;
 //punto a 
 var longitudCenti = prompt("por favor ingrese los centimetros que desea convertir") ;

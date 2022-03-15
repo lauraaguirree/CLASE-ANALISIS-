@@ -2,3 +2,8 @@ Taller 1: Nota 4.4
     * En la línea 11 el mensaje de solicitar el dato al usuario, debe ser más claro Ejm: Ingrese la edad del estudiante.
     *Al momento de imprimir por consola, debe dejar espacios antes o despues de las comillas para que el mensaje sea más organizado. De la siguiente manera:
     console.log("el estudiante "+nombreEstudiante+" del grado "+gradoEstudiante+ " tiene "+edadEstudiante) ; 
+
+Taller 2: Nota 4.7 Felicitaciones niñas, trabajaron MUY BIEN 👌😉
+    * en el punto 3, líneas 31, 32 y 33 no son necesarias, no realizan ninguna acción importante
+    * Punto 6, lineas 61 y 62 sobran porque la 63 y 64 hacen lo mismo y son las que se usan en la formula
+    * Punto d del 7, no utilizan la variable en la operacion de conversion
