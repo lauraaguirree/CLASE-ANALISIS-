@@ -12,3 +12,7 @@ Taller 2: Nota 4.7 Felicitaciones niñas, trabajaron MUY BIEN 👌😉
 
 Taller 3 (Recuperación): Nota 5 - la nota del segundo taller les queda en 5
     * línea 43 el mensaje debió ser, "la cantidad de dinero que debe pagar es" y no "la cantidad de horas que debe pagar es".
+
+
+
+Enlace al examen: https://acortar.link/wzqjho
