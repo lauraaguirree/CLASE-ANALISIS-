@@ -20,6 +20,17 @@ Taller 3 (Recuperación): Nota 5 - la nota del segundo taller les queda en 5
 
 Enlace al examen: https://acortar.link/wzqjho
 
-Examen: Nota 3.5
+Examen condicional: Nota 3.5
     * punto 4, el algoritmo solamente muestra la suma de las variables, ya que la condicion solo tiene un = en vez de ==
     * punto 6 no fue resuelto, no suma puntos.
+
+taller while: nota 3.6
+    * punto 4, no imprime solamente los impares, los imprime todos
+    * punto 5, debe ser más específico en los mensajes que muestran al usuario (ingrese un número impar para detener el ciclo)
+    * linea 71, no muestra el resultado final
+    *punto 7 y bonus, no resueltos
+
+examen while: nota 3
+    * punto 1, no lo comentaron. Debían poner un comentario en cada linea explicando qué hacía
+    * punto 4, la variable ciclo4 vale 0 todo el tiempo, no habrá descuento para el cliente en ningún caso.
+    * 
