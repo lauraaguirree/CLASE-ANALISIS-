@@ -20,9 +20,14 @@ Taller 3 (Recuperación): Nota 5 - la nota del segundo taller les queda en 5
 
 Enlace al examen: https://acortar.link/wzqjho
 
+Taller condicionales: nota 4.4
+    * punto 3, no está resuelto
+    * linea 44, es <
+
 Examen condicional: Nota 3.5
     * punto 4, el algoritmo solamente muestra la suma de las variables, ya que la condicion solo tiene un = en vez de ==
     * punto 6 no fue resuelto, no suma puntos.
+
 
 taller while: nota 3.6
     * punto 4, no imprime solamente los impares, los imprime todos
