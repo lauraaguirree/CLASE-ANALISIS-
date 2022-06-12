@@ -38,4 +38,7 @@ taller while: nota 3.6
 examen while: nota 3
     * punto 1, no lo comentaron. Debían poner un comentario en cada linea explicando qué hacía
     * punto 4, la variable ciclo4 vale 0 todo el tiempo, no habrá descuento para el cliente en ningún caso.
+
+
+ciclo for: nota ***No hay taller ciclo for***
     * 
