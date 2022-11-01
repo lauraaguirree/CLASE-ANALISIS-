@@ -42,3 +42,7 @@ examen while: nota 3
 
 ciclo for: nota ***No hay taller ciclo for***
     * 
+
+
+Geometría:
+    Nota: No recibido
